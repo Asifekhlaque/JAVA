@@ -1,2 +1,1 @@
-# Core JAVA
-# Basic 
+# JAVA
